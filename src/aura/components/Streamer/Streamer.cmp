@@ -1,5 +1,5 @@
 <aura:component controller="ctrlAuraStreamer" access="global">
-    <-- sangwoo rocks!  4 -->
+    <-- sangwoo rocks!  5 -->
 
     <aura:attribute name="channel"          type="String" required="true"
                     description="The name of the pushtopic to subscribe to. ie /topic/Tasks"/>
