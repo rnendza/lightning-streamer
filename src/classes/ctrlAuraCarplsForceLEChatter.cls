@@ -5,7 +5,7 @@
  * @TODO this is poc only.. really really needs to be cleaned up!
  */
 global without sharing class ctrlAuraCarplsForceLEChatter {
-
+    // simple test comment. rjn 3/8/2023
     @AuraEnabled
     public static ResponseDTO retrieveCollaborationGroup(String groupName, Id networkId, Id clientId) {
         ResponseDTO dto = retrieveCollaborationGroup(groupName,networkId);
